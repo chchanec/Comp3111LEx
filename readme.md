@@ -24,3 +24,6 @@ What I have learned in lab 1:
 
 Below is the screenshot of my 1st lab project in IntelliJ:
 
+![](C:\Users\User\OneDrive - HKUST Connect\Desktop\COMP3111H\Lab\Lab 1\COMP3111H Lab 1 Screenshot of IntelliJ.png)
+
+<img src="C:\Users\User\OneDrive - HKUST Connect\Desktop\COMP3111H\Lab\Lab 1\COMP3111H Lab 1 Screenshot of IntelliJ.png"/>
