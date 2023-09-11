@@ -27,3 +27,11 @@ Below is the screenshot of my 1st lab project in IntelliJ:
 ![](C:\Users\User\OneDrive - HKUST Connect\Desktop\COMP3111H\Lab\Lab 1\COMP3111H_Lab_1_Screenshot.png)
 
 <img src="C:\Users\User\OneDrive - HKUST Connect\Desktop\COMP3111H\Lab\Lab 1\COMP3111H_Lab_1_Screenshot.png"/>
+
+![](https://raw.githubusercontent.com/chchanec/Comp3111LEx/master/COMP3111H_Lab_1_Screenshot.png)
+
+<img src="https://raw.githubusercontent.com/chchanec/Comp3111LEx/master/COMP3111H_Lab_1_Screenshot.png"/>
+
+![](https://github.com/chchanec/Comp3111LEx/blob/master/COMP3111H_Lab_1_Screenshot.png)
+
+<img src="https://github.com/chchanec/Comp3111LEx/blob/master/COMP3111H_Lab_1_Screenshot.png"/>
