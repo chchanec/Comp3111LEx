@@ -1,12 +1,12 @@
 COMP3111H/COMP3111 Lab 1
 
-(last updated: 11/9/2023, 18:28)
+(last updated: 11/9/2023, 23:10)
 
 # COMP3111H Honors Software Engineering (4 units)
 
 ## Self introduction
 
-### Hello everyone!
+### Hello everyone!!!
 
 I am **CHAN, Chun Hin** and I am taking ***COMP3111H*** currently!
 
