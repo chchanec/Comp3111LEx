@@ -1,12 +1,15 @@
-# Self introduction
+# COMP3111H Honors Software Engineering (4 units)
+
+## Self introduction
 
 ### Hello everyone!
 
 I am **CHAN, Chun Hin** and I am taking ***COMP3111H*** currently!
-(COMP3111H is taught by Professor Kenneth Leung this semester.)
+
+(COMP3111H is taught by Professor Kenneth Leung Wai Ting this semester.)
 
 
-# Description
+## Description
 
 Welcome to this page!
 
