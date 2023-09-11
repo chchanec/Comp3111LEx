@@ -24,9 +24,9 @@ What I have learned in lab 1:
 
 Below is the screenshot of my 1st lab project in IntelliJ:
 
-![](C:\Users\User\OneDrive - HKUST Connect\Desktop\COMP3111H\Lab\Lab 1\COMP3111H_Lab_1_Screenshot.png)
+![](https://github.com/chchanec/Comp3111LEx/blob/cb8c564f664a5718d53b03a5d7bb07011237e21a/COMP3111H_Lab_1_Screenshot.png)
 
-<img src="C:\Users\User\OneDrive - HKUST Connect\Desktop\COMP3111H\Lab\Lab 1\COMP3111H_Lab_1_Screenshot.png"/>
+<img src="https://github.com/chchanec/Comp3111LEx/blob/cb8c564f664a5718d53b03a5d7bb07011237e21a/COMP3111H_Lab_1_Screenshot.png"/>
 
 ![](https://raw.githubusercontent.com/chchanec/Comp3111LEx/master/COMP3111H_Lab_1_Screenshot.png)
 
