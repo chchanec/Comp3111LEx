@@ -6,7 +6,7 @@
 
 I am **CHAN, Chun Hin** and I am taking ***COMP3111H*** currently!
 
-(COMP3111H is taught by Professor Kenneth Leung Wai Ting this semester.)
+(Note: COMP3111H is taught by Professor Kenneth Leung Wai Ting this semester.)
 
 
 ## Description
