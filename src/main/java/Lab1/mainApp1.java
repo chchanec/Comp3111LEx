@@ -13,5 +13,6 @@ public class mainApp1 {
         System.out.println(n+"! = "+ myLibrary.factorial(n));
         System.out.println("Program ..Ended ...");
         System.out.println("Thank you for using me!");
+        System.out.println("Bye!!!");
     }
 }
